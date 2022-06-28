@@ -1,0 +1,21 @@
+.topbar_container{
+    display: flex;
+    padding: 0 0;
+    border-bottom: 1px solid lightgrey ;
+}
+.topbar_subcontainer1{
+    width: fit-content;
+    margin: 10px;
+    padding: 0 20px;
+    border-radius: 5px;
+}
+.topbar_subcontainer2{
+    width: fit-content;
+    color: #fff;
+    padding: 0 20px;
+    border-radius: 5px;
+    margin: auto 10px  auto auto;
+    background: #1D4350; 
+    background: -webkit-linear-gradient(to right, #A43931, #1D4350); 
+    background: linear-gradient(to right, #A43931, #1D4350); 
+}
